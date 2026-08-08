@@ -1,42 +1,72 @@
-# Hi there, I'm Hasancan Gültekin! 👋
+# Hasancan Gültekin
 
-### 🤖 Robotics & AI Student | 🔐 Cybersecurity Enthusiast | 📱 Android Developer
+### AI Evaluation · Data & Product Analytics · Python
 
-I am a passionate Robotics and Artificial Intelligence student at Niğde Ömer Halisdemir University, focused on building AI-driven solutions and exploring the depths of cybersecurity.
+I build practical AI evaluation environments, data-driven workflows, and Python tools with an emphasis on **reproducibility, measurable behavior, and real-world utility**.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Tools & Platforms**
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**AI & Specialized**
-![Groq](https://img.shields.io/badge/Groq_API-f55036?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-43a047?style=for-the-badge)
+Currently studying Robotics & Artificial Intelligence at Niğde Ömer Halisdemir University and developing projects across agent evaluation, automation, and applied AI.
 
 ---
 
-### 🚀 Featured Project: Cyberhelper
-- **Cyberhelper:** An AI-powered cybersecurity assistant built with Groq API and CustomTkinter to help users analyze security threats in real-time.
+## What I Work On
+
+- **AI & Agent Evaluation** — reproducible benchmark environments, held-out tests, verifier design, failure analysis
+- **Data & Product Analytics** — structured analysis, experimentation, and turning ambiguous problems into measurable results
+- **Python Engineering** — automation, desktop tooling, APIs, testing, and practical developer utilities
+- **Applied AI** — building useful interfaces and workflows around modern language models
 
 ---
 
-### 📊 GitHub Stats
-![Hasancan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gultekinhasancan79&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gultekinhasancan79&layout=compact&theme=tokyonight)
+## Selected Projects
+
+### [swe-rl-envs](https://github.com/gultekinhasancan79/swe-rl-envs)
+**Reproducible evaluation environments for agentic coding benchmarks.**
+
+Each environment contains a seeded defect, agent-facing task, held-out test suite, and verifier that scores candidate patches through layered integrity and behavioral gates. The current environment uses digest-pinned containers, hash-pinned dependencies, network isolation, and hidden acceptance tests to make evaluation reproducible and resistant to benchmark gaming.
+
+`Agent Evaluation` · `Python` · `Docker` · `Pytest` · `Reproducibility`
+
+### [Prompt Enhancer](https://github.com/gultekinhasancan79/Oto_prompt_Engineer)
+**Browser extension for improving prompts directly inside AI applications.**
+
+Supports ChatGPT, Gemini, Claude, Perplexity and other AI interfaces, with iterative prompt enhancement, undo history, language preservation, keyboard shortcuts, and local API-key storage.
+
+`JavaScript` · `Chrome Extension` · `Groq API` · `Prompt Engineering`
+
+### [MediaClean](https://github.com/gultekinhasancan79/MediaClean)
+**Keyboard-driven desktop utility for quickly reviewing and cleaning large media folders.**
+
+Supports image and video previews, fast keyboard navigation, safe moves to a local `_trash` folder, and undo functionality instead of permanent deletion.
+
+`Python` · `Desktop Automation` · `Pillow` · `OpenCV`
 
 ---
 
-### 📫 How to reach me
-- **LinkedIn:** https://www.linkedin.com/in/can79/
-- **Email:** gultekinhasancan79@gmail.com
+## Core Stack
+
+**Languages & Data**  
+Python · SQL · PostgreSQL · NumPy · Jupyter
+
+**AI & Evaluation**  
+LLM / Agent Evaluation · Prompt Evaluation · Experiment Analysis · Groq API
+
+**Analytics**  
+Product Analytics · A/B Testing · Power BI
+
+**Engineering**  
+Git · Linux · Bash · REST APIs · Docker · Pytest
+
+---
+
+## Current Focus
+
+- Expanding reproducible environments for **agentic coding evaluation**
+- Building stronger **AI evaluation and failure-analysis** workflows
+- Developing portfolio-grade **data and product analytics** case studies
+- Improving testing, documentation, and reproducibility across my projects
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/can79/) · [Email](mailto:gultekinhasancan79@gmail.com)
