@@ -71,6 +71,17 @@ A benchmark suite with two distinct agentic coding environments: `runlog-rollup`
 
 <br>
 
+### 📊 [Product Analytics Case Study](https://github.com/gultekinhasancan79/product-analytics-case-study)
+**Reproducible onboarding A/B experiment from hypothesis to product decision.**
+
+A deterministic 12,000-user case study with executable SQL, data-quality gates, two-proportion inference, confidence intervals, guardrail analysis, segment diagnostics, and CI that regenerates the dataset and verifies the committed decision report.
+
+**Evidence:** 7-day activation 51.16% → 53.30% · +2.13 pp · p = 0.0193 · support-ticket guardrail -1.41 pp.
+
+`Product Analytics` · `A/B Testing` · `Python` · `SQL` · `Statistics`
+
+<br>
+
 ### ✨ [Prompt Enhancer](https://github.com/gultekinhasancan79/Oto_prompt_Engineer)
 **Browser extension for improving prompts directly inside AI applications.**
 
@@ -101,7 +112,7 @@ I care about building systems that are easy to inspect, test, reproduce, and exp
 
 - Expanding reproducible environments for **agentic coding evaluation**
 - Developing stronger **AI evaluation and failure-analysis** workflows
-- Building portfolio-grade **data and product analytics** case studies
+- Expanding **data and product analytics** case studies with experiment and funnel analysis
 - Improving testing, documentation, and reproducibility across projects
 
 ---
