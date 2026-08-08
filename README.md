@@ -63,7 +63,9 @@ I build **reproducible AI evaluation environments**, data-driven workflows, and 
 ### 🧪 [swe-rl-envs](https://github.com/gultekinhasancan79/swe-rl-envs)
 **Reproducible evaluation environments for agentic coding benchmarks.**
 
-A benchmark environment architecture built around seeded defects, agent-facing tasks, hidden acceptance tests, and layered verification. The current environment uses digest-pinned containers, hash-pinned dependencies, network isolation, and behavioral gates to make scoring reproducible and resistant to benchmark gaming.
+A benchmark suite with two distinct agentic coding environments: `runlog-rollup` for process-lifetime state leakage and `cursor-pagination` for cursor-protocol reasoning. Both use held-out acceptance tests, network-isolated digest-pinned containers, layered anti-gaming verification, auditable golden evidence, and matrix CI.
+
+**Evidence:** 33 visible tests · 22 held-out tests · 55 combined tests across two 9-gate environments.
 
 `Agent Evaluation` · `Python` · `Docker` · `Pytest` · `Reproducibility`
 
