@@ -72,13 +72,13 @@ A benchmark suite with two distinct agentic coding environments: `runlog-rollup`
 <br>
 
 ### 📊 [Product Analytics Case Study](https://github.com/gultekinhasancan79/product-analytics-case-study)
-**Reproducible onboarding A/B experiment with experiment-integrity and event-analytics layers.**
+**Reproducible onboarding A/B experiment with experiment-integrity, event-analytics, and advanced experimentation layers.**
 
-A deterministic 12,000-user experiment with SRM and pre-treatment balance checks, power/MDE planning, two-proportion inference, a formal treatment × device interaction test, a 41,209-row product-event fact table, event-level data-quality gates, executable funnel/cohort SQL, and CI-verified decision evidence.
+A deterministic 12,000-user experiment with SRM and pre-treatment balance checks, power/MDE planning, formal treatment × device interaction inference, CUPED-style sensitivity analysis, a 41,209-row product-event fact table, event-level data-quality gates, executable funnel/cohort SQL, and a reviewer Jupyter walkthrough that is executed in CI on the tested analysis path.
 
-**Evidence:** activation 51.16% → 53.30% · +2.13 pp · p = 0.0193 · SRM p = 0.6613 · max balance SMD = 0.028 · mobile interaction p = 0.0773.
+**Evidence:** activation +2.13 pp · p = 0.0193 · SRM p = 0.6613 · realized 80%-power MDE ≈ 2.55 pp · planning power at observed lift ≈ 64.8% · CUPED-style variance reduction 1.47%.
 
-`Product Analytics` · `Experimentation` · `A/B Testing` · `Python` · `SQL` · `Statistics`
+`Product Analytics` · `Experimentation` · `A/B Testing` · `Python` · `SQL` · `Statistics` · `Jupyter`
 
 <br>
 
