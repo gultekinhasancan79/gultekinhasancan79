@@ -2,9 +2,11 @@
 
 # Hasancan Gültekin
 
-### AI Evaluation · Data & Product Analytics · Python Engineering
+### RL Environment & Agent Evaluation Engineer
 
-I build **reproducible AI evaluation environments**, data-driven workflows, and practical Python tools — with an emphasis on measurable behavior, robust testing, and real-world utility.
+I build **reproducible environments for tool-using and coding agents**, design deterministic graders, and investigate failures in agent behavior, tasks, and evaluation systems.
+
+**Available for remote contracts · Türkiye (UTC+3) · 30+ hours/week · Immediate start**
 
 <p>
   <a href="https://www.linkedin.com/in/can79/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,12 +17,38 @@ I build **reproducible AI evaluation environments**, data-driven workflows, and 
 
 ---
 
-## What I Work On
+## Start Here: [beancount-ledger](https://github.com/gultekinhasancan79/beancount-ledger)
 
-- 🧪 **AI & Agent Evaluation** — reproducible benchmark environments, held-out tests, verifier design, and failure analysis
-- 📊 **Data & Product Analytics** — structured analysis, experimentation, and turning ambiguous questions into measurable results
-- 🐍 **Python Engineering** — automation, APIs, testing, desktop tooling, and developer utilities
-- 🤖 **Applied AI** — practical interfaces and workflows built around modern language models
+**An RL environment where an agent handles a small company's bookkeeping, and a deterministic scorer checks the result.**
+
+Built on Prime Intellect's `verifiers` and published on the Environments Hub. The environment covers bookkeeping workflows including bank reconciliation, accounts payable, payroll, and month-end close, with tool-based interaction and rewards derived from ledger state rather than an LLM judge.
+
+- **Evaluation design:** keyed task generation, explicit evaluation boundaries, reproducible episode contracts, and an exploit-test corpus.
+- **Published evidence:** a fixed-panel evaluation of four open-weight models with 138 valid episodes. This is an evaluation study, not a claim that an RL policy was trained.
+- **Review workflow:** a local desktop app runs and replays episodes, showing ledger changes and scorer feedback.
+
+[Code & quickstart](https://github.com/gultekinhasancan79/beancount-ledger) · [Evaluation report](https://github.com/gultekinhasancan79/beancount-ledger/blob/main/reviews/arms_confirm1v4.md) · [Technical reference](https://github.com/gultekinhasancan79/beancount-ledger/blob/main/docs/REFERENCE.md)
+
+---
+
+## Relevant Experience
+
+**Fleet AI — computer-use task authoring and QA review**
+
+- Authored and reviewed multi-step tasks in simulated enterprise software environments, including NetSuite workflows.
+- Checked task instructions, environment state, agent trajectories, and grader behavior to distinguish model failures from task or evaluation issues.
+- Documented edge cases and revised tasks and grading logic for clearer, more reliable evaluation.
+
+The public projects below are independent work samples. They do not publish proprietary Fleet tasks or client data.
+
+---
+
+## What I Can Contribute
+
+- **Computer-use & tool-use evaluation:** task authoring, trajectory review, failure analysis, and structured feedback.
+- **RL environment & grader engineering:** Python tooling, deterministic scoring, held-out tests, and reproducible evaluation setups.
+- **Agentic coding QA:** behavioral testing, verifier debugging, and assessment of candidate patches.
+- **Supporting engineering:** Python, SQL, APIs, automation, and data-quality checks.
 
 ---
 
@@ -58,7 +86,7 @@ I build **reproducible AI evaluation environments**, data-driven workflows, and 
 
 ---
 
-## Selected Work
+## More Selected Work
 
 ### 🧪 [swe-rl-envs](https://github.com/gultekinhasancan79/swe-rl-envs)
 **Reproducible evaluation environments for agentic coding benchmarks.**
@@ -102,7 +130,7 @@ Supports image and video previews, fast keyboard navigation, safe moves to a loc
 
 ## Engineering Principles
 
-> **Reproducibility over demos. Measurable behavior over vague claims. Practical tools over unnecessary complexity.**
+> **Reproducible runs, inspectable evidence, and clearly stated limitations.**
 
 I care about building systems that are easy to inspect, test, reproduce, and explain — whether that means an evaluation harness, an analytics workflow, or a small utility solving a concrete problem.
 
@@ -110,10 +138,9 @@ I care about building systems that are easy to inspect, test, reproduce, and exp
 
 ## Current Focus
 
-- Expanding reproducible environments for **agentic coding evaluation**
-- Developing stronger **AI evaluation and failure-analysis** workflows
-- Expanding **data and product analytics** case studies with experiment and funnel analysis
-- Improving testing, documentation, and reproducibility across projects
+- Building and evaluating **tool-use and agentic coding environments**
+- Improving **grader reliability, trajectory review, and failure analysis**
+- Making evaluation evidence easier to inspect and reproduce
 
 ---
 
