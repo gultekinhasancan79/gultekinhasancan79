@@ -35,5 +35,4 @@ The projects here are independent public work samples; proprietary Fleet tasks a
 ## Other work
 
 - [Product analytics case study](https://github.com/gultekinhasancan79/product-analytics-case-study) — **synthetic-data case study** with 12,000 simulated signups, A/B analysis, executable SQL, and reproducible reports.
-- [Prompt Enhancer](https://github.com/gultekinhasancan79/Oto_prompt_Engineer) — browser extension for improving prompts inside AI applications.
 - [MediaClean](https://github.com/gultekinhasancan79/MediaClean) — desktop media review with keyboard navigation and undo.
