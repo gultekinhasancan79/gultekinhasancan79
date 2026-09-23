@@ -1,4 +1,4 @@
-# Hasancan Gültekin
+![Hasancan Gültekin: RL environments and agent evaluation. An animated verifier replays the recorded swe-rl-envs walkthrough: seeded defect FAIL, partial fix FAIL, reference fix PASS on all nine gates.](assets/header.svg)
 
 **I build environments and graders that test whether AI agents complete real-world tasks.**
 
